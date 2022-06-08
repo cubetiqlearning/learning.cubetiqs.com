@@ -40,7 +40,7 @@ const Home: NextPage = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by &copy; {new Date().getFullYear()} &nbsp;<b>CUBETIQ Solution</b>
+          Powered by &copy;{new Date().getFullYear()} &nbsp;<b>CUBETIQ Solution</b>
         </a>
       </footer>
     </div>
