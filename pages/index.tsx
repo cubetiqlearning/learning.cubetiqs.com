@@ -13,7 +13,6 @@ const Home: NextPage = () => {
 
   useEffect(() => {
     setTimeout(() => {
-      setTitle("Under Construction");
       setLoading(false);
     }, 3000);
   });
