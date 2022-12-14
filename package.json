@@ -17,7 +17,7 @@
     "zustand": "^4.1.5"
   },
   "devDependencies": {
-    "@types/node": "18.11.12",
+    "@types/node": "18.11.15",
     "@types/react": "18.0.26",
     "@types/react-dom": "18.0.9",
     "@types/react-lottie": "^1.2.6",
