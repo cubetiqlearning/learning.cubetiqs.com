@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@nextui-org/react": "^1.0.0-beta.12",
+    "@nextui-org/react": "^1.0.0-beta.13",
     "next": "13.4.7",
     "react": "18.2.0",
     "react-dom": "18.2.0",
